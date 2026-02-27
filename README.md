@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Email-mailto:himanshuhsc9305.com-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://linkedin.com/in/himanshuhsc9305">
-    <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Gupta-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Singh-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://himanshuhscportfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel">
@@ -23,7 +23,7 @@
 ## 🌟 About Me
 
 - 🎓 MCA Student at **Kamla Nehru Institute of Technology, Sultanpur**
-- 💻 Currently Learning: **Spring Boot, React.js & System Design**
+- 💻 Currently Learning: **Node.js, React.js & System Design**
 - 🔥 Passionate about Backend Development & Scalable Applications
 - 🚀 Building Full Stack Projects 
 - ⚡ Fun Fact: I love solving coding problems and building real-world projects
@@ -34,7 +34,7 @@
 
 ### 🏢 Online Quiz
 - Built using **HTML+CSS+JS+PHP**
-- CRUD operations with REST APIs
+- REST APIs
 - MySQL Database Integration
 
 ### 🎨 Personal Portfolio Website
@@ -84,7 +84,7 @@
 
 ---
 
-⭐️ From [Himanshu Singh](https://github.com/ankit2upu)
+⭐️ From [Himanshu Singh](https://github.com/himanshuhsc9305)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshuhsc9305@gmail.com) 
