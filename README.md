@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MCA Student | Frontend Developer | Future Full Stack Developer from India </h3>
 
 <p align="center">
-  <a href="mailto:himanshuhsc9305.com">
+  <a href="mailto:himanshuhsc9305@gmail.com">
     <img src="https://img.shields.io/badge/Email-mailto:himanshuhsc9305.com-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://linkedin.com/in/himanshuhsc9305">
