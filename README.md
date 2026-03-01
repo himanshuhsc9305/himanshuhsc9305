@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Singh </h1>
+<h1 align="center">Hi , I'm Himanshu Singh </h1>
 <h3 align="center">🚀 MCA Student | Frontend Developer | Future Full Stack Developer from India </h3>
 
 <p align="center">
